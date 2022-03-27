@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @saraarizzi
-- 📚 I graduated in Computer Science
+- 📚 I recently graduated in Computer Science
 - 💡 I'm looking forward to continue my studies in Data Science
